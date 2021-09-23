@@ -14,3 +14,4 @@ I am a fullstack developer, and I love to code. I really enjoy learning language
 - ⚡ Fun fact: I'm 12 years old and certified by Microsoft
  
 [![hackorum's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackorum&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Youtube: https://www.youtube.com/channel/UCIfWXqdiEvM8nBFAA594Kjw
