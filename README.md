@@ -6,6 +6,7 @@ I am a fullstack developer, and I love to code. I really enjoy learning language
  - 📱 React Native
  - 🐍 Python
  - 🕸 Web development
+ - 🏎 AR and VR
 -------------
 - 🔭 I’m currently working on VapourNvim
 - 🌱 I’m currently learning 3D Game Development and lua
