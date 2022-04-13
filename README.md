@@ -15,4 +15,9 @@
 ## 🧐 Other interests...
 I loooveee music 🎵 and I like to play table tennis/ping pong 🏓 and badminton 🏸
 
-<img src='./Discord-Logo.png' style="height:10%;width:10%;"/>
+## Connect
+<div>
+  <img src='./Discord-Logo.png' style="height:10%;width:10%;"/>
+  <img src='./reddit-logo-16.png' style="height:10%;width:10%;"/>
+  <img src='./youtube-logo-hd-8.png' style="height:10%;width:10%;"/>
+</div>
