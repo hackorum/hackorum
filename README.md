@@ -15,3 +15,4 @@
 ## 🧐 Other interests...
 I loooveee music 🎵 and I like to play table tennis/ping pong 🏓 and badminton 🏸
 
+<img src='./Discord-Logo.png' />
