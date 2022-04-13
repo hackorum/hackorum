@@ -17,7 +17,7 @@ I loooveee music 🎵 and I like to play table tennis/ping pong 🏓 and badmint
 
 ## 💬 Connect with me
 <div>
-  <img src='./Discord-Logo.png' style="height:70px;width:80px;"/>
+  <img src='./Discord-Logo.png' style="height:70px;width:90px;"/>
   <img src='./reddit-logo-16.png' style="height:100px;width:100px;"/>
   <img src='./youtube-logo-hd-8.png' style="height:100px;width:100px;"/>
 </div>
