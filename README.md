@@ -17,7 +17,7 @@ I loooveee music 🎵 and I like to play table tennis/ping pong 🏓 and badmint
 
 ## 💬 Connect with me
 <div>
-  <img src='./Discord-Logo.png' style="height:70px;width:120px;"/>
-  <img src='./reddit-logo-16.png' style="height:75px;width:75px;"/>
-  <img src='./ytlogo.png' style="height:75px;width:90px;"/>
+  <a href="https://discord.gg/8yYsSqxXbH"><img src='./Discord-Logo.png' style="height:70px;width:120px;"/></a>
+  <a href="https://reddit.com/u/hackorum"><img src='./reddit-logo-16.png' style="height:75px;width:75px;"/></a>
+  <a href="https://www.youtube.com/channel/UCIfWXqdiEvM8nBFAA594Kjw"><img src='./ytlogo.png' style="height:75px;width:90px;"/>
 </div>
