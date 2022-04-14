@@ -16,7 +16,7 @@
 I loooveee music 🎵 and I like to play table tennis/ping pong 🏓 and badminton 🏸
 
 ## 💬 Connect with me
-<div align='center'>
+<div align='center' style="width: 100%; text-align: center;">
   <div style="display: inline-block;">
     <a target="_blank" href="https://discord.gg/8yYsSqxXbH"><img src='./Discord-Logo.png' style="height:70px;width:120px;"/></a>
   </div>
